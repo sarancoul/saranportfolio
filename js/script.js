@@ -40,6 +40,7 @@ ScrollReveal({
      duration : 2000,
      delay: 200
     });
+    
 
     ScrollReveal().reveal('.accueil-contenaire, .header', { origin: 'top' });
     ScrollReveal().reveal('.accueil-img, .service-contenant, .portfolio-boite, .contact form', { origin : 'bottom'});
